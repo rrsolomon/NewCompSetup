@@ -14,4 +14,12 @@ This is the process that I go through when setting up my Windows PC's. For my ve
 7. Allow 1Gbps transfer speeds
 8. Setup Documents, Videos, Pictures, Downloads, and Music folders to "Storage (G:)" hard drive.
 9. Set-Up NAS-Storage
+10. Some things to do after installation.
 
+## Step 0: Install Windows 10
+This section will go over the basic installation process of Windows 10 Pro - Awesome Edition. You can skip this system if you've already installed Windows 10.
+
+## Step 1: Fresh Installation Restore Point
+The first thing that we should do is set up a "Fresh Install" restoration point for windows. This set is rather simple, and I suggest that you do it after every one of these steps to make sure everything that you have backups of what you did, so if you did some configurations that you don't want, you can simply rollback.
+
+A. 
