@@ -12,4 +12,6 @@ This is the process that I go through when setting up my Windows PC's. For my ve
 5. Disable Windows 10 Updates
 6. MSConfig activate all the core of your computer.
 7. Allow 1Gbps transfer speeds
+8. Setup Documents, Videos, Pictures, Downloads, and Music folders to "Storage (G:)" hard drive.
+9. Set-Up NAS-Storage
 
