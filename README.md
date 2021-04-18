@@ -4,6 +4,7 @@ This is the process that I go through when setting up my Windows PC's. For my ve
 ***Note:** At the end of every step, you should add a restore point just to make your setup little more secure, but that is completely up to you. I personally do this after each major step, so after debloat, and after installing new programs.*
 
 ## Steps
+0. Install Windows 10
 1. Fresh installation Restore Point.
 2. Debloat Windows using the [Sycnex's Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater).
 3. Install preffered programs through Ninite.
